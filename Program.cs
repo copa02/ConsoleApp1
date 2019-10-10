@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //한글 주석
-
+            Console.WriteLine("Hello, World!");
         }
     }
 }
